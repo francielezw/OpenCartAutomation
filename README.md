@@ -1,2 +1,2 @@
-# OpenCartAutoma-o
+# OpenCartAutomação
 🛒 Testes Automatizados de Fluxo de Compra | Cypress
